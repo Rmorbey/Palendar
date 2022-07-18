@@ -91,20 +91,21 @@ You also have a choice of who you would like to include in the shared calendar, 
 
 ## Demo Photos
 
-Homepage:
-![Homepage](readme_images/homepage.png)
+### Sign up
+<img width="1279" alt="Screenshot 2022-07-18 at 14 18 21" src="https://user-images.githubusercontent.com/101583630/179520408-803b3600-88c2-48cf-8a8d-fb3a0ed5e4a6.png">
 
-Sign up:
-![Sign Up](readme_images/signup.png)
 
-Login:
-![Login](readme_images/Login.png)
+### Login
+<img width="1280" alt="Screenshot 2022-07-18 at 14 18 13" src="https://user-images.githubusercontent.com/101583630/179520513-414b29c2-63a9-4d6b-8c2e-ad51a990add8.png">
 
-Your personal calendar:
-![Personal Calendar](readme_images/Personal_calendar.png)
 
-The group calendar:
-![Group Calendar](readme_images/Group_calendar.png)
+### Your personal calendar
+<img width="1280" alt="Screenshot 2022-07-18 at 14 18 51" src="https://user-images.githubusercontent.com/101583630/179520593-84eb947a-7b93-4b33-b831-b906631e6b41.png">
+
+
+### The group calendar
+<img width="1280" alt="Screenshot 2022-07-18 at 14 19 23" src="https://user-images.githubusercontent.com/101583630/179520611-15c7f3fe-29e7-47ed-beae-f2be5fee1369.png">
+
 
 ## Future Improvements
 
