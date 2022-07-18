@@ -34,8 +34,8 @@ You also have a choice of who you would like to include in the shared calendar, 
 - [React Testing Library](https://testing-library.com/) | Frontend unit testing.
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | Markup language.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | Style sheet language.
-- [bcrypt] (https://www.npmjs.com/package/bcrypt) | User password encryption and authentication.
-- [Cypress] (https://www.cypress.io/) | end to end testing.
+- [bcrypt](https://www.npmjs.com/package/bcrypt) | User password encryption and authentication.
+- [Cypress](https://www.cypress.io/) | end to end testing.
 
 ### Organisational & Planning Tools
 
@@ -91,11 +91,24 @@ You also have a choice of who you would like to include in the shared calendar, 
 
 ## Demo Photos
 
-< INSERT DEMO PHOTOS AND VIDEO >
+Homepage:
+![Homepage](readme_images/homepage.png)
+
+Sign up:
+![Sign Up](readme_images/signup.png)
+
+Login:
+![Login](readme_images/Login.png)
+
+Your personal calendar:
+![Personal Calendar](readme_images/Personal_calendar.png)
+
+The group calendar:
+![Group Calendar](readme_images/Group_calendar.png)
 
 ## Future Improvements
 
-< MAKE THIS APP >
+* Add the option to make friend requests.
 
 ## How to Run Locally
 
