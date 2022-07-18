@@ -44,10 +44,6 @@ You also have a choice of who you would like to include in the shared calendar, 
 - [Miro](https://miro.com/) | Diagramming tool.
 - [Balsamiq](https://balsamiq.com/) | Wireframing tool.
 
-## Card wall
-
-< INSERT TRELLO BOARD IMAGE LATER >
-
 ## MVP, design and planning
 
 #### Homepage
@@ -92,7 +88,8 @@ You also have a choice of who you would like to include in the shared calendar, 
 ## Demo Photos
 
 ### Sign up
-<img width="1279" alt="Screenshot 2022-07-18 at 14 18 21" src="https://user-images.githubusercontent.com/101583630/179520408-803b3600-88c2-48cf-8a8d-fb3a0ed5e4a6.png">
+<img width="1280" alt="Screenshot 2022-07-18 at 14 23 23" src="https://user-images.githubusercontent.com/101583630/179520988-fd430676-58b3-4441-837f-0491a89b8969.png">
+
 
 
 ### Login
