@@ -93,7 +93,8 @@ You also have a choice of who you would like to include in the shared calendar, 
 
 
 ### Login
-<img width="1280" alt="Screenshot 2022-07-18 at 14 18 13" src="https://user-images.githubusercontent.com/101583630/179520513-414b29c2-63a9-4d6b-8c2e-ad51a990add8.png">
+<img width="1280" alt="Screenshot 2022-07-18 at 14 26 18" src="https://user-images.githubusercontent.com/101583630/179521609-8c4f9301-e9b4-4018-9d51-e4dfba6d5ced.png">
+
 
 
 ### Your personal calendar
